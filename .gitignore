@@ -12,3 +12,6 @@ build/
 
 # OS
 .DS_Store
+
+# Ignore the temporary architecture map
+dart/dartpedia/architecture.md
